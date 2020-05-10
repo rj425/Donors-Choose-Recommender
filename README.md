@@ -2,7 +2,7 @@
 
 - **Source -** [Kaggle](https://www.kaggle.com/)
 - **Dataset -** [Data Science for Good: DonorsChoose.org](https://www.kaggle.com/donorschoose/io)
-- **Solution -** [Python Notebook]()
+- **Solution -** [Python Notebook](https://nbviewer.jupyter.org/github/rj425/Donors-Choose-Recommender/blob/master/models.ipynb)
 
 This repository contains all the required files used to run the recommendation engine as a localhost server. Tree structure of CODE directory looks something like this:
     
