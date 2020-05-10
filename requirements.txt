@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+scipy
+pydeck
+streamlit
+seaborn
+surprise
+Pillow
+wordcloud

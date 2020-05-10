@@ -1,0 +1,18 @@
+# Dataset
+data/Donations.csv
+data/Donors.csv
+data/Projects.csv
+data/Resources.csv
+data/Schools.csv
+data/Teachers.csv
+data/reco_engine.csv
+data/categories.csv
+data/engine.csv
+
+# vscode fies
+.vscode/*
+
+# Notebook checkpoints
+.ipynb_checkpoints/*
+
+scripts/__pycache__/*
