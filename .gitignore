@@ -16,3 +16,6 @@ data/engine.csv
 .ipynb_checkpoints/*
 
 scripts/__pycache__/*
+
+# Models
+models/*
